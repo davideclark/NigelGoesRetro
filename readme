@@ -2,3 +2,6 @@ Nigel goes retro weekend!
 Prints a message about it in random colours
 and repeats forever
 Written in bbc basic
+To run the program use this link
+
+https://bbc.godbolt.org/?loadBasic=https://raw.githubusercontent.com/davideclark/NigelGoesRetro/main/nr.bas&autorun
